@@ -1,8 +1,5 @@
 # udemy-courses-paid
-------    getting started with UdemyCourses for Python and EV's training   -----  
-
-
-weekdays 9-15 -> Python
+getting started with UdemyCourses for Python and EV's training - weekdays 9-15 -> Python
 
 ![git-udemyPythonCourses2](https://user-images.githubusercontent.com/103030864/196764442-c4c79691-15a9-406d-9135-3fe1fd5e8170.jpg)
 
