@@ -3,7 +3,7 @@ getting started with udemy intro courses for EV's and Python training
 
 
 
-<img width="531" alt="git-udemyPython" src="https://user-images.githubusercontent.com/103030864/196754768-2d35d6fa-0448-4395-9056-40f121c8b9eb.png">
+<img width="720" alt="git-udemyPythonCourses2" src="https://user-images.githubusercontent.com/103030864/196762698-ce2572c7-b773-46b0-8e9d-7664911d9185.png">
 
 
 
