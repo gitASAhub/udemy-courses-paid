@@ -1,10 +1,16 @@
-# udemy-courses-paid
-getting started with Udemy.com Courses for Python and EV's training - weekdays from 9-15 -> Python training
+# udemy-courses-paid  jan23 update py/EV/mentalHealthy
 
-![bilde](https://user-images.githubusercontent.com/103030864/198264855-bfd1de73-4ee6-4ff9-b3e8-217084132cc1.png)
-
+![udemyJan23ProgressCourses](https://user-images.githubusercontent.com/103030864/213010386-f96c703b-e462-4223-92c4-29b3f6bd0c48.png)
 
 
-sundays -> EV training
 
-![Inkedgit-kjøpt6udemyEVCourses_LI](https://user-images.githubusercontent.com/103030864/196753973-efd78dce-d6c1-45f1-8aa7-290fe2ae8764.jpg)
+getting started with Udemy.com Courses for Python and EV's training - weekdays from 9 - 15 -> pythonTraining (jan23)
+
+
+![Inkedgit-udemyPythonCourses3 jan23](https://user-images.githubusercontent.com/103030864/213012533-c461b736-d1c2-4580-b967-7eb4f248d4a3.jpg)
+
+Saterdays -> MentalHealthy Training (jan23)
+
+sundays -> evTraining (jan23)
+
+![Inkedgit-kjøpt6udemyEVCourses – jan23](https://user-images.githubusercontent.com/103030864/213011727-917d6b96-587e-44dd-954d-a950aa7dddb1.jpg)
